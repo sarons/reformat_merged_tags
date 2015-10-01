@@ -1,3 +1,4 @@
+
 # Given a list of tags that are merged to one another, format it such that each tag has it's merged ids
 
 INPUT =[
